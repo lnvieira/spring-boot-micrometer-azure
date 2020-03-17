@@ -1,7 +1,6 @@
 # Azure Application Insights with Spring Boot 2 using Micrometer Registry Azure
 
-You can see more about this case (step by step) 
-in https://dev.to/silviobuss/
+You can see more about this case in https://dev.to/silviobuss/publishing-application-metrics-to-azure-monitor-using-micrometer-plk.
 
 This project uses a database, if you already have mysql installed on the machine,
 you can use it by changing the settings in the `application.properties` file.
